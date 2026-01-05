@@ -1,0 +1,146 @@
+MATRICE DE QUALIFICATION DE PROJET  
+OZARU DIGITALS  
+Document opératoire – Go / No-Go
+
+⸻
+
+OBJET DU DOCUMENT
+
+Cette matrice définit les critères obligatoires permettant à Ozaru Digitals :
+- d’accepter un projet,
+- de le refuser sans ambiguïté,
+- de documenter toute décision de go / no-go.
+
+Elle s’applique à :
+- tout prospect,
+- tout projet existant en extension,
+- toute demande interne de création de service ou d’agent.
+
+Aucune exception implicite n’est autorisée.
+
+⸻
+
+RÈGLE FONDAMENTALE
+
+Un projet est accepté uniquement s’il :
+1. ne déclenche aucun critère éliminatoire,
+2. atteint le score minimum requis sur les critères de fit.
+
+À défaut, le projet est refusé, sans négociation sur le fond.
+
+⸻
+
+1. CRITÈRES ÉLIMINATOIRES  
+(UN SEUL CRITÈRE COCHÉ = REFUS IMMÉDIAT)
+
+□ Absence de sponsor décisionnel identifié  
+Le projet n’a pas de responsable capable d’arbitrer, d’assumer et d’arrêter le système.
+
+□ Budget IA alloué sans problème métier documenté  
+Le budget précède le problème ou repose sur une injonction vague (“faire de l’IA”).
+
+□ Refus ou incapacité à définir des critères d’échec  
+Le client refuse de formuler ce qui constituerait un échec du système.
+
+□ Demande d’automatisation totale sans contrôle humain  
+Le client recherche une suppression complète de la responsabilité humaine.
+
+□ Attente d’un “POC pour voir” sans engagement aval  
+Le projet est présenté comme un test exploratoire sans intention de déploiement réel.
+
+□ Absence de décision cible clairement formulée  
+Aucune décision précise n’est identifiée comme cœur du système.
+
+□ Refus explicite de la contradiction  
+Le client attend une validation, pas un arbitrage ni un challenge.
+
+⸻
+
+STATUT SI AU MOINS UN CRITÈRE EST COCHÉ :  
+→ PROJET REFUSÉ  
+Aucune phase de cadrage n’est engagée.
+
+⸻
+
+2. CRITÈRES DE FIT STRATÉGIQUE  
+(SCORING SUR 5 PAR CRITÈRE)
+
+Chaque critère est noté de 1 (très faible) à 5 (excellent).
+
+1. Clarté du problème décisionnel  
+□ 1 □ 2 □ 3 □ 4 □ 5  
+Le problème est formulé comme une décision coûteuse, répétée ou risquée.
+
+2. Maturité du sponsor  
+□ 1 □ 2 □ 3 □ 4 □ 5  
+Le sponsor comprend les limites de l’IA, accepte l’incertitude et la responsabilité.
+
+3. Capacité de mesure  
+□ 1 □ 2 □ 3 □ 4 □ 5  
+Des données existent ou peuvent être produites pour mesurer l’impact réel.
+
+4. Acceptation du cadre Ozaru  
+□ 1 □ 2 □ 3 □ 4 □ 5  
+Le client accepte explicabilité, traçabilité, interruption et audits.
+
+5. Potentiel de valeur mesurable  
+□ 1 □ 2 □ 3 □ 4 □ 5  
+Le système peut raisonnablement produire un impact observable à 90 jours.
+
+⸻
+
+SCORE TOTAL POSSIBLE : 25  
+SCORE MINIMUM REQUIS : 18
+
+⸻
+
+3. INTERPRÉTATION DES SCORES
+
+Score < 18  
+→ PROJET REFUSÉ  
+Raison : risque de dilution, faible impact, ou responsabilité insuffisante.
+
+Score entre 18 et 21  
+→ PROJET ACCEPTABLE SOUS CONDITIONS  
+Un cadrage renforcé est obligatoire.  
+Les critères faibles doivent être explicitement traités en phase 0.
+
+Score ≥ 22  
+→ PROJET PRIORITAIRE  
+Alignement fort avec l’ADN Ozaru.  
+Engagement recommandé.
+
+⸻
+
+4. DÉCISION FORMELLE
+
+Décision finale :  
+□ REFUS  
+□ ACCEPTATION SOUS CONDITIONS  
+□ ACCEPTATION
+
+Motif synthétique (obligatoire, une phrase maximum) :  
+.....................................................................
+
+Décideur Ozaru :  
+Nom : ................................................  
+Date : ................................................
+
+⸻
+
+5. RÈGLES DE TRAÇABILITÉ
+
+- Toute matrice complétée doit être conservée.
+- Tout refus doit pouvoir être justifié par cette matrice.
+- Aucun projet accepté ne peut contourner un critère éliminatoire.
+- Toute dérogation explicite constitue une violation du manifeste.
+
+⸻
+
+CLAUSE DE PROTECTION DE LA MARQUE
+
+Ozaru Digitals préfère refuser un projet rentable
+plutôt qu’accepter un projet incohérent.
+
+La cohérence du système prévaut sur la croissance.
+La responsabilité prévaut sur l’opportunité.
