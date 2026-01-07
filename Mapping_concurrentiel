@@ -1,4 +1,4 @@
-MAPPING CONCURRENTIEL  
+Document : Mapping_concurrentiel
 OZARU DIGITALS  
 Document stratégique – Positionnement et différenciation
 
@@ -12,12 +12,14 @@ Il ne cartographie pas des entreprises.
 Il cartographie des postures face à la décision, à la responsabilité et au risque.
 
 Il sert à :
-- clarifier contre quoi Ozaru se positionne,
-- éviter toute dérive opportuniste,
+- clarifier contre quoi Ozaru se positionne réellement,
+- éviter toute dérive opportuniste ou mimétique,
 - guider le discours stratégique et commercial,
-- tester la cohérence du MVB et du cœur de cible.
+- tester la cohérence du MVB et du cœur de cible,
+- arbitrer les choix de positionnement long terme.
 
-Ce mapping n’a de valeur que s’il est défendable dans le temps.
+Ce mapping n’a de valeur que s’il est défendable dans le temps,
+y compris lorsque cela coûte en volume ou en visibilité.
 
 ⸻
 
@@ -29,13 +31,19 @@ Ozaru Digitals concurrence des manières de décider et de se déresponsabiliser
 Le mapping est construit à partir :
 - des comportements observés sur le marché,
 - des promesses implicites dominantes,
-- des mécanismes réels de prise de décision.
+- des mécanismes réels de prise de décision,
+- des traumatismes récurrents du cœur de cible.
+
+RÈGLE :
+Tout positionnement Ozaru doit pouvoir être situé clairement dans ce mapping.
+Une proposition non positionnable est considérée comme incohérente.
 
 ⸻
 
 AXES DE DIFFÉRENCIATION RETENUS
 
-Après analyse terrain, deux axes structurants sont retenus.
+Après analyse terrain et alignement avec le MVB et le Brainbook,
+deux axes structurants sont retenus.
 
 AXE 1 — RESPONSABILITÉ DÉCISIONNELLE  
 Spectre :
@@ -43,6 +51,7 @@ Responsabilité diluée ⟶ Responsabilité assumée
 
 Définition :
 - À gauche, la décision est implicitement déléguée à l’outil, au prestataire ou au process.
+- La responsabilité est fragmentée, floue ou reportée.
 - À droite, la décision est explicitement assumée, traçable et arbitrée par un humain identifiable.
 
 AXE 2 — CONTRÔLE DU SYSTÈME  
@@ -53,10 +62,11 @@ Définition :
 - En bas, le système agit sans explicabilité, sans arrêt propre, sans audit réel.
 - En haut, le système est explicable, traçable, interrompable et gouvernable.
 
-Ces axes sont choisis car :
-- ils sont observables,
-- ils déclenchent de vraies préférences chez le cœur de cible,
-- ils sont défendables opérationnellement.
+Ces axes sont retenus car :
+- ils sont observables dans les pratiques réelles,
+- ils déclenchent des préférences nettes chez le cœur de cible,
+- ils sont défendables opérationnellement,
+- ils correspondent aux ennemis structurants identifiés.
 
 ⸻
 
@@ -70,15 +80,17 @@ Postures typiques :
 - promesses d’autonomie totale,
 - agents “intelligents” non gouvernés.
 
-Caractéristiques :
-- forte promesse,
-- faible responsabilité explicite,
-- dépendance technologique élevée,
-- arrêt du système difficile ou inexistant.
+Caractéristiques dominantes :
+- promesse élevée,
+- responsabilité implicite ou inexistante,
+- dépendance technologique forte,
+- arrêt du système difficile ou impossible,
+- faible traçabilité des décisions.
 
 Relation au cœur de cible :
 Rejet fort.
 Risque perçu maximal.
+Zone d’incompatibilité structurelle avec Ozaru.
 
 ⸻
 
@@ -90,15 +102,15 @@ Postures typiques :
 - POCs exploratoires,
 - automatisations opportunistes.
 
-Caractéristiques :
+Caractéristiques dominantes :
 - contrôle technique partiel,
-- décision souvent reportée,
+- décisions souvent reportées ou non tranchées,
 - responsabilité floue en cas d’échec,
-- livrables centrés sur la démo.
+- livrables centrés sur la démo ou l’expérimentation.
 
 Relation au cœur de cible :
 Tolérance initiale, puis déception.
-Zone de traumatisme du Dirigeant échaudé.
+Zone de traumatisme récurrente du Dirigeant échaudé.
 
 ⸻
 
@@ -109,14 +121,15 @@ Postures typiques :
 - accompagnement stratégique sans delivery système,
 - renforcement des process humains.
 
-Caractéristiques :
-- responsabilité humaine claire,
+Caractéristiques dominantes :
+- responsabilité humaine clairement identifiée,
 - faible automatisation,
 - décisions lentes,
-- impact opérationnel limité.
+- impact opérationnel limité ou indirect.
 
 Relation au cœur de cible :
-Crédibilité intellectuelle, frustration opérationnelle.
+Crédibilité intellectuelle.
+Frustration opérationnelle croissante.
 
 ⸻
 
@@ -127,17 +140,18 @@ Posture Ozaru :
 
 - responsabilité humaine explicitement désignée,
 - systèmes décisionnels, pas informatifs,
-- explicabilité, traçabilité, interruption natives,
-- critères d’échec définis,
+- explicabilité, traçabilité et interruption natives,
+- critères d’échec définis avant critères de succès,
 - arrêt du système assumé comme option légitime.
 
 Différenciation clé :
+
 Ozaru accepte d’assumer les conséquences de la décision,
-y compris l’arrêt, l’échec ou le refus.
+y compris l’arrêt, l’échec, le refus ou la non-automatisation.
 
 Relation au cœur de cible :
 Alignement fort avec le Décideur lucide et l’Ops responsable.
-Position minoritaire mais stratégique.
+Position minoritaire, exigeante et stratégique.
 
 ⸻
 
@@ -145,13 +159,14 @@ ALTERNATIVES RÉELLES À OZARU
 (RAPPEL ESSENTIEL)
 
 Dans de nombreux cas, le principal concurrent d’Ozaru n’est pas un acteur, mais :
+
 - le statu quo,
 - le report de décision,
-- le sur-contrôle humain,
+- le sur-contrôle humain paralysant,
 - l’abandon silencieux du sujet IA.
 
 Ce mapping doit être lu comme une cartographie de choix réels,
-pas comme un comparatif d’offres.
+pas comme un comparatif d’offres ou de prestataires.
 
 ⸻
 
@@ -159,31 +174,34 @@ IMPLICATIONS STRATÉGIQUES
 
 Ce mapping implique que :
 
-- Ozaru n’est pas sur un marché de volume.
-- Ozaru ne peut pas séduire rapidement.
-- Ozaru doit accepter d’être minoritaire.
+- Ozaru n’est pas positionné sur un marché de volume.
+- Ozaru ne peut pas séduire rapidement ni massivement.
+- Ozaru doit accepter une adoption lente mais cohérente.
 - La cohérence prime sur l’expansion.
 
+RÈGLE :
 Toute tentative de déplacement vers :
 - plus de promesse,
 - moins de responsabilité,
 - plus d’opacité,
+- plus d’autonomie non gouvernée,
 
-constitue une dérive stratégique.
+constitue une dérive stratégique explicite.
 
 ⸻
 
 STATUT DU DOCUMENT
 
-Ce mapping est un document de référence stratégique.
+Ce mapping est un document de référence stratégique interne.
 
 Il doit être utilisé pour :
-- tester toute nouvelle offre,
-- cadrer le discours commercial,
+- tester toute nouvelle offre ou service,
+- cadrer et armer le discours commercial,
 - refuser des opportunités non alignées,
-- former les nouveaux intervenants Ozaru.
+- former les nouveaux intervenants Ozaru,
+- prévenir toute dérive de positionnement.
 
 Il n’a pas vocation à être public.
 
 Ozaru Digitals préfère un territoire étroit mais défendable
-à un espace large mais incohérent.
+à un espace large, flou et incohérent.
