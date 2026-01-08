@@ -1,0 +1,302 @@
+DOCUMENT : BRAINBOOK ARBITAS  
+ARBITAS  
+Document stratégique interne – Système de cohérence du service
+
+⸻
+
+RÔLE DU DOCUMENT
+
+Ce document est le système de cohérence stratégique d’Arbitas.
+
+Il ne remplace pas :
+- le Manifeste Opérationnel de Marque,
+- le MVB,
+- le Cœur de Cible Psychographique,
+- le Mapping Concurrentiel,
+- la Matrice de Qualification,
+- le Guide de Cadrage (Phase 0),
+- le Référentiel de Langage.
+
+Il sert à :
+- relier ces documents entre eux,
+- empêcher toute interprétation opportuniste,
+- forcer des arbitrages cohérents,
+- transformer la posture Arbitas en discipline d’exécution,
+- organiser la preuve dans le réel.
+
+Ce document est strictement interne.
+Il n’a pas vocation à être public.
+
+⸻
+
+PRINCIPE DIRECTEUR
+
+La cohérence Arbitas est une ligne de conduite opératoire.
+
+Arbitas n’est pas ce qu’il affirme.
+Arbitas est ce qu’il fait, ce qu’il refuse et ce qu’il est capable d’assumer lorsque cela coûte.
+
+Toute incohérence entre discours, décisions et actions constitue une dette de cohérence.
+Toute dette non traitée est une dérive stratégique.
+
+⸻
+
+1) TRIANGLE FONDATEUR ET RÈGLE D’INTERSECTION  
+(ADN, MARCHÉ, CIBLE)
+
+Arbitas est défini par l’intersection stricte de trois blocs.
+
+Bloc A — ADN ARBITAS  
+Références :
+- Manifeste Opérationnel de Marque Arbitas
+- MVB Arbitas
+
+Invariants :
+- une décision explicite ou rien,
+- la responsabilité précède la technologie,
+- zéro automatisation non gouvernée,
+- système explicable, traçable et interrompable,
+- refus assumé comme acte stratégique.
+
+Bloc B — Réalité de marché  
+Référence :
+- Mapping Concurrentiel Arbitas
+
+Invariants :
+- Arbitas concurrence des postures, pas des acteurs,
+- l’alternative principale est souvent le statu quo ou la fuite de décision,
+- l’opacité et les POC sans suite sont des traumatismes récurrents.
+
+Bloc C — Cœur de cible  
+Référence :
+- Cœur de Cible Psychographique Arbitas
+
+Invariants :
+- Décideur lucide (rare, exposé),
+- Responsable opérationnel (allié critique, révélateur terrain),
+- Dirigeant échaudé (cherche sobriété et contrôle),
+- désadressage explicite des postures de fuite de responsabilité.
+
+RÈGLE NON NÉGOCIABLE
+
+Aucune offre, aucune mission, aucun message, aucun contenu, aucun recrutement
+ne peut être validé s’il n’appartient pas strictement à l’intersection A ∩ B ∩ C.
+
+Si un élément est cohérent avec A et B mais pas avec C, il est invalide.
+Si un élément est cohérent avec A et C mais pas avec B, il est invalide.
+Si un élément est cohérent avec B et C mais pas avec A, il est invalide.
+
+⸻
+
+2) VALEUR CHAPEAU  
+(ALIGNEMENT DES CONTRADICTIONS)
+
+Valeur chapeau Arbitas : RESPONSABILITÉ ASSUMÉE
+
+Définition :
+Arbitas existe pour rendre la décision plus explicite, plus traçable
+et assumable par un humain identifié dans le réel.
+
+Cette valeur autorise :
+- dire non,
+- définir des critères d’échec,
+- arrêter une mission ou un système,
+- documenter une dégradation,
+- refuser une demande séduisante mais irresponsable.
+
+Cette valeur interdit :
+- promettre un résultat non falsifiable,
+- livrer une automatisation irréversible,
+- vendre une démo comme preuve,
+- utiliser l’IA comme alibi politique,
+- accepter un cadrage sans sponsor décisionnel clair.
+
+Toute tension perçue entre :
+- responsabilité,
+- livraison,
+- discours,
+doit être arbitrée en faveur de la responsabilité.
+
+⸻
+
+3) ENNEMIS STRUCTURANTS  
+(MARCHÉ, MÉTHODE, DISCOURS)
+
+Les ennemis sont des repères opératoires, pas des opinions.
+
+3.1 Ennemis de marché
+
+- décision diluée,
+- innovation cosmétique,
+- report permanent de décision,
+- dépendance technologique opaque,
+- théâtre de la preuve.
+
+3.2 Ennemis de méthode
+
+- “test pour voir” sans engagement,
+- absence de baseline donc impact invérifiable,
+- cadrage par outil ou modèle,
+- automatisation recherchée par confort,
+- absence de protocole d’arrêt et de rollback.
+
+3.3 Ennemis de discours
+
+- promesses non falsifiables,
+- vocabulaire magique ou spectaculaire,
+- confusion entre information et décision,
+- confusion entre compréhension et action,
+- confusion entre IA et système décisionnel.
+
+Ces ennemis doivent être utilisés pour :
+- qualifier,
+- désadresser,
+- structurer le discours,
+- refuser sans ambiguïté.
+
+⸻
+
+4) ATTRIBUTS POLARISÉS ARBITAS  
+(CHOIX SANS COMPROMIS)
+
+Arbitas se définit par des choix polarisés assumés.
+
+Attribut 1 — CLARTÉ plutôt que SÉDUCTION  
+Attribut 2 — RESPONSABILITÉ plutôt que DÉLÉGATION  
+Attribut 3 — CONTRÔLABLE plutôt qu’AUTONOME  
+Attribut 4 — MESURABLE plutôt que PLAUSIBLE  
+Attribut 5 — SOBRIÉTÉ plutôt que SPECTACLE  
+Attribut 6 — DÉSADRESSAGE plutôt que VOLUME  
+
+RÈGLE
+
+Toute proposition Arbitas doit expliciter ce qu’elle sacrifie volontairement.
+Un attribut sans sacrifice associé est considéré comme décoratif.
+
+⸻
+
+5) PREUVES OPÉRATIONNELLES  
+(PREUVE OU NON-EXISTENCE)
+
+Arbitas ne revendique pas.
+Arbitas prouve.
+
+5.1 Clarté
+- décisions formulées,
+- critères d’échec documentés,
+- responsabilités explicites.
+
+5.2 Responsabilité
+- sponsor identifié,
+- protocole d’arrêt documenté,
+- post-évaluation à 30, 90, 180 jours.
+
+5.3 Contrôlable
+- logs exploitables,
+- points de veto humains,
+- rollback documenté.
+
+5.4 Mesurable
+- baseline explicite,
+- métriques avant/après,
+- rapports d’impact.
+
+5.5 Sobriété
+- absence de promesses non falsifiables,
+- absence de démo sans hypothèses explicites,
+- documentation des limites et non-usages.
+
+5.6 Désadressage
+- refus documentés,
+- critères éliminatoires appliqués,
+- redirection propre des non-fit.
+
+RÈGLE
+
+Toute promesse sans mécanisme de preuve associé est interdite.
+Toute mission sans protocole de preuve est hors périmètre Arbitas.
+
+⸻
+
+6) RITES ET COMPORTEMENTS  
+(ARBITAS EN ACTION)
+
+Rite 1 — Refus explicite cadré  
+Rite 2 — Critères d’échec avant critères de succès  
+Rite 3 — Protocole d’arrêt en amont  
+Rite 4 — Information seule = non-livrable  
+Rite 5 — Post-évaluation systématique  
+Rite 6 — Contradiction autorisée, décision documentée  
+
+Ces rites doivent exister :
+- dans la qualification,
+- dans la delivery,
+- dans la communication,
+- dans les standards internes.
+
+⸻
+
+7) GRILLE D’ENCAPSULATION DES OFFRES  
+(WHO / WHY / HOW / WHAT)
+
+WHO
+- archétype précis du cœur de cible,
+- posture désadressée explicitement,
+- sponsor décisionnel type.
+
+WHY
+- décision ciblée,
+- friction mesurable,
+- risque ou coût d’inaction réduit.
+
+HOW
+- mécanisme d’arbitrage,
+- contrôles humains,
+- traçabilité et interruption.
+
+WHAT
+- livrables,
+- limites explicites,
+- métriques et protocole de preuve.
+
+RÈGLE
+
+Une offre non encapsulée est non alignée.
+Une offre sans limites explicites est dangereuse.
+
+⸻
+
+8) GOUVERNANCE DE COHÉRENCE  
+(ANTI-DÉRIVE)
+
+Déclencheurs de revue obligatoire :
+- nouvelle offre,
+- évolution de positionnement,
+- nouveau message,
+- nouveau canal,
+- nouveau type de mission,
+- recrutement porteur de discours.
+
+Test minimal :
+- Quel invariant protège-t-on ?
+- Quel ennemi combat-on ?
+- Quel attribut est activé ?
+- Quelle preuve est produite ?
+- Quel sacrifice est assumé ?
+
+Si une réponse est floue, l’initiative est suspendue.
+
+⸻
+
+STATUT DU DOCUMENT
+
+Ce document est stratégique interne.
+
+Il sert à :
+- arbitrer les tensions,
+- prévenir la dilution,
+- garantir la cohérence du service,
+- transformer la posture Arbitas en exécution réelle.
+
+Si ce brainbook n’empêche pas une dérive probable,
+alors il n’est pas appliqué ou il manque une règle.
