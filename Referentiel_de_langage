@@ -1,12 +1,12 @@
-RÉFÉRENTIEL DE LANGAGE  
-OZARU DIGITALS  
+DOCUMENT: RÉFÉRENTIEL DE LANGAGE  
+ARBITAS  
 Document normatif – Usage interne et externe
 
 ⸻
 
 OBJET DU DOCUMENT
 
-Ce référentiel définit le vocabulaire autorisé, recommandé, déconseillé et interdit dans toute communication opérée sous la marque Ozaru Digitals.
+Ce référentiel définit le vocabulaire autorisé, recommandé, déconseillé et interdit dans toute communication opérée sous la marque Arbitas.
 
 Il s’applique à :
 - la communication commerciale,
@@ -23,54 +23,58 @@ Toute dérive lexicale constitue une dérive stratégique.
 
 PRINCIPE DIRECTEUR
 
-Ozaru Digitals utilise un langage :
+Arbitas utilise un langage :
 - précis,
 - falsifiable,
 - orienté décision et responsabilité.
 
-Nous évitons volontairement :
+Arbitas évite volontairement :
 - le flou,
 - la projection futuriste,
 - la promesse implicite,
 - l’enthousiasme performatif.
 
-Si un mot ne permet pas de clarifier une décision, il n’a pas sa place.
+Si un mot ne permet pas de clarifier une décision réelle,
+il n’a pas sa place dans le langage Arbitas.
 
 ⸻
 
-1. VOCABULAIRE STRUCTURANT OZARU  
+1. VOCABULAIRE STRUCTURANT ARBITAS  
 (TERMES À PRIVILÉGIER)
 
-Ces termes reflètent la manière dont Ozaru Digitals pense, cadre et agit.
+Ces termes reflètent la manière dont Arbitas pense, cadre et opère.
 
 - Système décisionnel  
 - Agent d’arbitrage  
-- Clarté opérationnelle  
 - Décision cible  
-- Friction mesurable  
+- Friction décisionnelle mesurable  
 - Coût d’inaction  
 - Arbitrage explicite  
 - Responsabilité humaine  
+- Sponsor décisionnel  
 - Explicabilité  
 - Traçabilité  
-- Seuil d’intervention  
+- Seuil d’intervention humaine  
 - Point de veto  
+- Critères d’échec  
 - Impact mesuré  
 - Rapport d’impact  
 - Système contrôlable  
-- Intelligence collaborative  
+- Interruption possible  
+- Protocole d’arrêt  
 - Livraison responsable  
-- Critères d’échec  
 
-Règle :
-L’utilisation de ces termes implique la capacité à les justifier concrètement.
+RÈGLE :
+L’utilisation de ces termes implique la capacité à les justifier
+par un mécanisme réel, documenté et vérifiable.
 
 ⸻
 
 2. VOCABULAIRE DÉCONSEILLÉ  
-(USAGE EXCEPTIONNEL, AVEC JUSTIFICATION)
+(USAGE EXCEPTIONNEL, AVEC BORNE EXPLICITE)
 
-Ces termes peuvent être utilisés uniquement s’ils sont immédiatement définis et bornés.
+Ces termes ne peuvent être utilisés que s’ils sont immédiatement définis,
+quantifiés ou restreints dans leur portée.
 
 - Optimisation  
 - Performance  
@@ -78,19 +82,21 @@ Ces termes peuvent être utilisés uniquement s’ils sont immédiatement défin
 - Prédiction  
 - Intelligence artificielle  
 
-Règle stricte :
+RÈGLE STRICTE :
 Tout terme générique doit être suivi d’une précision opératoire.
+
 Exemple interdit :
 “Optimisation des process”
+
 Exemple acceptable :
-“Réduction du temps de décision sur X de 30 %”.
+“Réduction du temps de décision sur X de 30 % à 90 jours”.
 
 ⸻
 
 3. VOCABULAIRE INTERDIT  
 (USAGE STRICTEMENT PROSCRIT)
 
-Ces termes sont incompatibles avec la posture Ozaru Digitals.
+Ces termes sont incompatibles avec la posture Arbitas.
 
 - Solution IA clé en main  
 - Magie de l’IA  
@@ -99,12 +105,13 @@ Ces termes sont incompatibles avec la posture Ozaru Digitals.
 - Potentiel illimité  
 - IA autonome  
 - IA qui remplace l’humain  
-- Innovation de rupture  
 - Transformation totale  
 - Agent intelligent général  
+- Décision automatique sans contrôle  
 
-Règle :
-L’utilisation d’un terme interdit constitue une violation du référentiel et doit être corrigée.
+RÈGLE :
+L’utilisation d’un terme interdit constitue une violation du référentiel
+et doit être corrigée immédiatement.
 
 ⸻
 
@@ -115,34 +122,35 @@ Ces reformulations servent de garde-fou discursif.
 Formulation floue :
 “Nous pourrions automatiser X”
 
-Formulation Ozaru :
-“Nous pouvons concevoir un système qui arbitre X selon les critères Y, avec intervention humaine sur Z”.
+Formulation Arbitas :
+“Nous pouvons concevoir un système qui arbitre la décision X selon les critères Y, avec intervention humaine obligatoire sur Z”.
 
 Formulation marketing classique :
-“Notre IA va transformer votre business”
+“Notre IA va transformer votre organisation”
 
-Formulation Ozaru :
-“Nous visons à réduire le coût de décision sur [friction précise] de X % sous 90 jours”.
+Formulation Arbitas :
+“L’objectif est de réduire le coût décisionnel lié à [friction précise] de X % sur une période de 90 jours”.
 
 Formulation vague :
 “L’IA va vous faire gagner du temps”
 
-Formulation Ozaru :
-“Le système réduit le temps passé sur la décision X, actuellement estimé à Y heures par semaine”.
+Formulation Arbitas :
+“Le système réduit le temps consacré à la décision X, actuellement estimé à Y heures par semaine”.
 
 ⸻
 
 5. POSTURE DISCURSIVE OBLIGATOIRE
 
-Toute prise de parole Ozaru Digitals doit respecter les règles suivantes :
+Toute prise de parole Arbitas doit respecter les règles suivantes :
 
 - Parler de décisions avant de parler de technologie.
-- Nommer les risques avant de promettre des bénéfices.
-- Définir les limites du système avant d’en vanter l’utilité.
+- Nommer les risques avant d’évoquer les bénéfices.
+- Définir les limites du système avant son utilité.
 - Assumer explicitement ce que le système ne fait pas.
-- Refuser les superlatifs non mesurables.
+- Refuser tout superlatif non mesurable.
 
-Interdiction :
+INTERDICTIONS :
+
 - Survendre une capacité.
 - Minimiser une limite.
 - Dissimuler un échec derrière un vocabulaire technique.
@@ -153,26 +161,26 @@ Interdiction :
 
 Règles spécifiques :
 
-- Toute affirmation doit pouvoir être reliée à une métrique.
+- Toute affirmation doit pouvoir être reliée à une métrique ou un critère.
 - Toute promesse doit être bornée dans le temps.
-- Toute incertitude doit être nommée explicitement.
-- Toute question floue doit être reformulée en décision.
+- Toute incertitude doit être explicitement nommée.
+- Toute demande floue doit être reformulée en décision.
 
 Exemple de recadrage autorisé :
-“Ce n’est pas une question d’outil, mais de décision. Quelle décision souhaitez-vous clarifier ?”
+“Ce n’est pas une question d’outil, mais de décision. Quelle décision souhaitez-vous rendre plus explicite ?”
 
 ⸻
 
 7. CLAUSE DE PROTECTION DE LA COHÉRENCE
 
-Le langage façonne la marque.
+Le langage façonne la posture Arbitas.
 
 Toute dérive lexicale répétée :
 - affaiblit le positionnement,
 - prépare une dérive opérationnelle,
 - constitue un signal d’alerte interne.
 
-Ozaru Digitals préfère un discours exigeant et parfois inconfortable
+Arbitas préfère un discours exigeant et parfois inconfortable
 à un discours séduisant mais flou.
 
 ⸻
@@ -183,7 +191,7 @@ Ce référentiel est opposable.
 
 Toute communication non conforme doit être corrigée.
 Toute exception doit être explicitement justifiée.
-Toute dérive persistante constitue une violation du manifeste.
+Toute dérive persistante constitue une violation des documents normatifs Arbitas.
 
 La clarté n’est pas un style.
 C’est une discipline.
